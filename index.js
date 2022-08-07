@@ -29,13 +29,11 @@
 			}
 
 			else if (randomNumber1 < randomNumber2) {
-				document.querySelector("h1").innerHTML
-								= (player2 + " WINS!");
+				document.querySelector("h1").innerHTML	= (player2 + " WINS!");
 			}
 
 			else {
-				document.querySelector("h1").innerHTML
-								= (player1 + " WINS!");
+				document.querySelector("h1").innerHTML= (player1 + " WINS!");
 			}
 		}, 2500);
 	}
