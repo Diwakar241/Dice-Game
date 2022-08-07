@@ -1,5 +1,5 @@
 # Dice-Game
-We will be building a Dice Game Project using HTML, CSS, and JavaScript. The Dice Game is based on a two-player. Both players roll the dice and the player who gets the highest phase value will win the game.
+Build a Dice Game Project using HTML, CSS, and JavaScript. The Dice Game is based on a two-player. Both players roll the dice and the player who gets the highest phase value will win the game.
 
 HTML Code: HTML code is used to design the basic structure of the project. The HTML code contains the container class that holds the player’s name and initial dice phase. Another bottom div contains the two buttons (one button for roll the dice and another button for rename the player name).
 
